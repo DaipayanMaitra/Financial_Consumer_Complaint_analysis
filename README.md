@@ -23,13 +23,21 @@ The data for this analysis was sourced from Maven Analytics. It includes details
 ## Project Structure
 bank-of-america-complaint-analysis/
 │
+
 ├── data/
+
 │   └── Consumer_Complaints.csv
+
 │
+
 ├── notebooks/
+
 │   └── complaint_analysis.ipynb
+
 │
+
 ├── README.md
+
 
 ## Key Insights
 
